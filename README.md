@@ -1,6 +1,6 @@
 # COVID-INFO-MANAGEMENT
 
-Gui apllication which manages the covid essential services information
+Gui application which manages the covid essential services information
 
 **Features**
 
